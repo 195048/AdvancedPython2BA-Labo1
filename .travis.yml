@@ -1,4 +1,4 @@
-language: ruby
-rvm:
- - 2.2
- - jruby
+language : python
+python :
+  - " 3.5 "
+script : python3 test .py
